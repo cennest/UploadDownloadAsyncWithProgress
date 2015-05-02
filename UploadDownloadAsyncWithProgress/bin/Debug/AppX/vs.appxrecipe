@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SALMAN-PC</Machine>
+    <WindowsUser>userpc</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>55f1474b-101d-4285-8afd-458fa269fc7d</PackageIdentityName>
+    <IntermediateOutputPath>D:\Shared\Blogs\UploadDownloadAsyncWithProgress\UploadDownloadAsyncWithProgress\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>42EC35EB7A298F4118162F78DB290226D14414E16F0CEE2D277E7094D381B7D9</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>55f1474b-101d-4285-8afd-458fa269fc7d_1.0.0.0_neutral__12n4jtka0fvtr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>55f1474b-101d-4285-8afd-458fa269fc7d_12n4jtka0fvtr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>55f1474b-101d-4285-8afd-458fa269fc7d</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=userpc</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\UploadDownloadAsyncWithProgress\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-02T07:38:38.543</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\UploadDownloadAsyncWithProgress\bin\Debug\UploadDownloadAsyncWithProgress.exe">
+      <PackagePath>UploadDownloadAsyncWithProgress.exe</PackagePath>
+      <Modified>2015-05-02T07:38:36.499</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\packages\Microsoft.Data.Edm.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\Microsoft.Data.Edm.dll">
+      <PackagePath>Microsoft.Data.Edm.dll</PackagePath>
+      <Modified>2015-04-16T11:04:29.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\packages\Microsoft.Data.OData.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\Microsoft.Data.OData.dll">
+      <PackagePath>Microsoft.Data.OData.dll</PackagePath>
+      <Modified>2015-04-16T11:04:31.267</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\packages\WindowsAzure.Storage.4.3.2-preview\lib\win8\Microsoft.WindowsAzure.Storage.dll">
+      <PackagePath>Microsoft.WindowsAzure.Storage.dll</PackagePath>
+      <Modified>2015-04-16T11:04:32.272</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\packages\System.Spatial.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\System.Spatial.dll">
+      <PackagePath>System.Spatial.dll</PackagePath>
+      <Modified>2015-04-16T11:04:28.496</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\packages\Microsoft.Data.Edm.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\de\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>de\Microsoft.Data.Edm.resources.dll</PackagePath>
+      <Modified>2015-04-16T11:04:29.579</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\packages\Microsoft.Data.Edm.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\es\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>es\Microsoft.Data.Edm.resources.dll</PackagePath>
+      <Modified>2015-04-16T11:04:29.596</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\packages\Microsoft.Data.Edm.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\fr\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>fr\Microsoft.Data.Edm.resources.dll</PackagePath>
+      <Modified>2015-04-16T11:04:29.627</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\packages\Microsoft.Data.Edm.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\it\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>it\Microsoft.Data.Edm.resources.dll</PackagePath>
+      <Modified>2015-04-16T11:04:29.656</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\packages\Microsoft.Data.Edm.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\ja\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>ja\Microsoft.Data.Edm.resources.dll</PackagePath>
+      <Modified>2015-04-16T11:04:29.688</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\packages\Microsoft.Data.Edm.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\ko\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>ko\Microsoft.Data.Edm.resources.dll</PackagePath>
+      <Modified>2015-04-16T11:04:29.729</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\packages\Microsoft.Data.Edm.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\ru\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>ru\Microsoft.Data.Edm.resources.dll</PackagePath>
+      <Modified>2015-04-16T11:04:29.859</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\packages\Microsoft.Data.Edm.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\zh-Hans\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.Data.Edm.resources.dll</PackagePath>
+      <Modified>2015-04-16T11:04:29.884</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\packages\Microsoft.Data.Edm.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\zh-Hant\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.Data.Edm.resources.dll</PackagePath>
+      <Modified>2015-04-16T11:04:29.910</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\packages\Microsoft.Data.OData.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\de\Microsoft.Data.OData.resources.dll">
+      <PackagePath>de\Microsoft.Data.OData.resources.dll</PackagePath>
+      <Modified>2015-04-16T11:04:30.959</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\packages\Microsoft.Data.OData.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\es\Microsoft.Data.OData.resources.dll">
+      <PackagePath>es\Microsoft.Data.OData.resources.dll</PackagePath>
+      <Modified>2015-04-16T11:04:31.012</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\packages\Microsoft.Data.OData.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\fr\Microsoft.Data.OData.resources.dll">
+      <PackagePath>fr\Microsoft.Data.OData.resources.dll</PackagePath>
+      <Modified>2015-04-16T11:04:31.060</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\packages\Microsoft.Data.OData.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\it\Microsoft.Data.OData.resources.dll">
+      <PackagePath>it\Microsoft.Data.OData.resources.dll</PackagePath>
+      <Modified>2015-04-16T11:04:31.110</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\packages\Microsoft.Data.OData.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\ja\Microsoft.Data.OData.resources.dll">
+      <PackagePath>ja\Microsoft.Data.OData.resources.dll</PackagePath>
+      <Modified>2015-04-16T11:04:31.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\packages\Microsoft.Data.OData.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\ko\Microsoft.Data.OData.resources.dll">
+      <PackagePath>ko\Microsoft.Data.OData.resources.dll</PackagePath>
+      <Modified>2015-04-16T11:04:31.207</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\packages\Microsoft.Data.OData.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\ru\Microsoft.Data.OData.resources.dll">
+      <PackagePath>ru\Microsoft.Data.OData.resources.dll</PackagePath>
+      <Modified>2015-04-16T11:04:31.343</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\packages\Microsoft.Data.OData.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\zh-Hans\Microsoft.Data.OData.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.Data.OData.resources.dll</PackagePath>
+      <Modified>2015-04-16T11:04:31.374</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\packages\Microsoft.Data.OData.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\zh-Hant\Microsoft.Data.OData.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.Data.OData.resources.dll</PackagePath>
+      <Modified>2015-04-16T11:04:31.425</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\packages\System.Spatial.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\de\System.Spatial.resources.dll">
+      <PackagePath>de\System.Spatial.resources.dll</PackagePath>
+      <Modified>2015-04-16T11:04:28.236</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\packages\System.Spatial.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\es\System.Spatial.resources.dll">
+      <PackagePath>es\System.Spatial.resources.dll</PackagePath>
+      <Modified>2015-04-16T11:04:28.291</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\packages\System.Spatial.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\fr\System.Spatial.resources.dll">
+      <PackagePath>fr\System.Spatial.resources.dll</PackagePath>
+      <Modified>2015-04-16T11:04:28.330</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\packages\System.Spatial.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\it\System.Spatial.resources.dll">
+      <PackagePath>it\System.Spatial.resources.dll</PackagePath>
+      <Modified>2015-04-16T11:04:28.359</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\packages\System.Spatial.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\ja\System.Spatial.resources.dll">
+      <PackagePath>ja\System.Spatial.resources.dll</PackagePath>
+      <Modified>2015-04-16T11:04:28.381</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\packages\System.Spatial.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\ko\System.Spatial.resources.dll">
+      <PackagePath>ko\System.Spatial.resources.dll</PackagePath>
+      <Modified>2015-04-16T11:04:28.423</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\packages\System.Spatial.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\ru\System.Spatial.resources.dll">
+      <PackagePath>ru\System.Spatial.resources.dll</PackagePath>
+      <Modified>2015-04-16T11:04:28.455</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\packages\System.Spatial.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\zh-Hans\System.Spatial.resources.dll">
+      <PackagePath>zh-Hans\System.Spatial.resources.dll</PackagePath>
+      <Modified>2015-04-16T11:04:28.570</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\packages\System.Spatial.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\zh-Hant\System.Spatial.resources.dll">
+      <PackagePath>zh-Hant\System.Spatial.resources.dll</PackagePath>
+      <Modified>2015-04-16T11:04:28.584</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\UploadDownloadAsyncWithProgress\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\UploadDownloadAsyncWithProgress\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\UploadDownloadAsyncWithProgress\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\UploadDownloadAsyncWithProgress\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\UploadDownloadAsyncWithProgress\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-05-02T07:38:36.320</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\UploadDownloadAsyncWithProgress\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-05-02T07:38:36.320</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\UploadDownloadAsyncWithProgress\bin\Debug\UploadDownloadAsyncWithProgress.xr.xml">
+      <PackagePath>UploadDownloadAsyncWithProgress.xr.xml</PackagePath>
+      <Modified>2015-05-02T07:38:36.281</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shared\Blogs\UploadDownloadAsyncWithProgress\UploadDownloadAsyncWithProgress\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-05-02T07:38:38.254</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

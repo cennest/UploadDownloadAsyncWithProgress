@@ -1,0 +1,9 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="d:\shared\blogs\uploaddownloadasyncwithprogress\uploaddownloadasyncwithprogress\obj\debug\intermediatexaml\uploaddownloadasyncwithprogress.exe" HashGuid="74126fc2-1148-930b-68bd-1da130c2ecdb" />
+    <ReferenceAssembly PathName="d:\shared\blogs\uploaddownloadasyncwithprogress\packages\microsoft.data.edm.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\microsoft.data.edm.dll" HashGuid="652859ac-63b5-9ab0-7a6b-0cb8dfcd265f" />
+    <ReferenceAssembly PathName="d:\shared\blogs\uploaddownloadasyncwithprogress\packages\microsoft.data.odata.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\microsoft.data.odata.dll" HashGuid="4e84b0db-d22a-61af-6343-dd7cc7f44046" />
+    <ReferenceAssembly PathName="d:\shared\blogs\uploaddownloadasyncwithprogress\packages\windowsazure.storage.4.3.2-preview\lib\win8\microsoft.windowsazure.storage.dll" HashGuid="bfb4410f-a879-0ea7-fa30-51b1db2615f3" />
+    <ReferenceAssembly PathName="d:\shared\blogs\uploaddownloadasyncwithprogress\packages\system.spatial.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\system.spatial.dll" HashGuid="4e779b7f-3e1d-55d1-cac0-694ae2344f0d" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
